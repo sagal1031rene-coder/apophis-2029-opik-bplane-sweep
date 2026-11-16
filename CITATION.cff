@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software simulation engine, please cite it as below."
+authors:
+  - family-names: Sagal Andrade
+    given-names: René
+    orcid: https://orcid.org
+title: "Öpik's b-Plane Parametric Phase Sweep for (99942) Apophis (2029 Encounter)"
+version: 1.0.0
+date-released: 2026-11-16
+url: https://github.com
