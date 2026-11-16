@@ -1,1 +1,0 @@
-# apophis-2029-opik-bplane-sweep
