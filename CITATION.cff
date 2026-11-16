@@ -4,7 +4,9 @@ authors:
   - family-names: Sagal Andrade
     given-names: René
     orcid: https://orcid.org
-title: "Öpik's b-Plane Parametric Phase Sweep for (99942) Apophis (2029 Encounter)"
+title: "High-Precision Mapping of Öpik's b-Plane and Non-Linear Phase Sensitivity for the 2029 Earth Encounter of Asteroid (99942) Apophis"
 version: 1.0.0
+doi: "10.5281/zenodo.2492933"
 date-released: 2026-11-16
 url: https://github.com
+
